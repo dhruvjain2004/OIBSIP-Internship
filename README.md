@@ -4,3 +4,4 @@
 * 20th June 2024 - Last date of project submission.
 * Tasks --->
 * TASK-1 : : ATM Interface
+* TASK-2 : : Guess The Number
